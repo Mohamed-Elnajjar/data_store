@@ -1,0 +1,45 @@
+{
+  "users_list": [
+    {
+      "id": "users_list"
+    }
+  ],
+  "new_admin": [
+    {
+      "0": {
+        "id": 1,
+        "name": "mohamed amen",
+        "email": "mamen12345678953@gmail.com",
+        "image": "../images/profile_admin/me.jpg",
+        "code": "00123Elnajjar000",
+        "pass": "00123789000",
+        "code_validation": "00123",
+        "created_date": "Mon Feb 27 2023 01:20:03",
+        "updated_date": "Mon Mar 27 2023 07:38:26",
+        "typing_chat": false
+      },
+      "id": "new_admin"
+    }
+  ],
+  "new_name": [
+    {
+      "id": "new_name"
+    }
+  ],
+  "chat": [
+    {
+      "id": "messages"
+    }
+  ],
+  "counter": [
+    {
+      "counter": 2,
+      "id": "counter"
+    }
+  ],
+  "products": [
+    {
+      "id": "product"
+    }
+  ]
+}
